@@ -155,6 +155,7 @@ nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
 pubnative.net, 1009458, RESELLER, d641df8625486a7b
 start.io, 197760873, RESELLER
 stroeer.com, 17379, RESELLER
+google.com, pub-6033524701663592, DIRECT, f08c47fec0942fa0
 thunder-monetize.com, 2158729563, RESELLER
 bluexad.ai, 1996418805747683328, RESELLER
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
